@@ -10,5 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "nodejs calculator application"
+  "description": "nodejs calculator application",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
